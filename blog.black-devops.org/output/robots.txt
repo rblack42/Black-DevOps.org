@@ -1,0 +1,4 @@
+Sitemap: http://blog.black-devops.org/sitemapindex.xml
+
+User-Agent: *
+Host: blog.black-devops.org
